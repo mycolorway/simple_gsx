@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["zchar@mycolorway.com"]
   spec.summary       = %q{Apple GSX API Library}
   spec.description   = %q{A Ruby library for communicating with Apple's GSX restful API}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/mycolorway/simple_gsx"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
